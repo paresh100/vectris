@@ -41,11 +41,6 @@ export default function Hero() {
             <div ref={heroRef} className="container mx-auto px-8 relative z-20">
                 <div className="max-w-4xl">
                     {/* Logo in hero */}
-                    import Logo from "@/components/Logo";
-
-                    // ... existing code ...
-
-                    {/* Logo moved to bottom right */}
                     <div data-hero className="absolute bottom-8 right-8 z-30 hidden md:block text-white">
                         <Logo
                             className="h-20 w-auto opacity-80"
