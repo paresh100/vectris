@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
-import Image from "next/image";
+import Logo from "@/components/Logo";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import gsap from "gsap";
@@ -69,14 +69,10 @@ export default function Header() {
         >
             <nav className="container mx-auto px-8 h-full flex items-center justify-between">
                 {/* Logo */}
+                {/* Logo */}
                 <Link href="/" className="flex items-center">
-                    <Image
-                        src="/logo-white.png"
-                        alt="Vectris Chartered Accountants"
-                        width={160}
-                        height={80}
+                    <Logo
                         className={`transition-all duration-500 brightness-0 opacity-80 ${scrolled ? "h-12 w-auto" : "h-16 w-auto"}`}
-                        priority
                     />
                 </Link>
 
