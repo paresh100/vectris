@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" fill="none">
+  <!-- Large central V -->
+  <text x="300" y="220" text-anchor="middle" font-family="'Playfair Display', 'Times New Roman', serif" font-size="260" font-weight="700" fill="#FFFFFF" letter-spacing="-0.02em">V</text>
+  
+  <!-- Spaced letters: V E C _ T R I S -->
+  <text x="28" y="200" font-family="'Playfair Display', 'Times New Roman', serif" font-size="52" font-weight="400" fill="#FFFFFF" letter-spacing="0.05em">V</text>
+  <text x="108" y="200" font-family="'Playfair Display', 'Times New Roman', serif" font-size="52" font-weight="400" fill="#FFFFFF" letter-spacing="0.05em">E</text>
+  <text x="188" y="200" font-family="'Playfair Display', 'Times New Roman', serif" font-size="52" font-weight="400" fill="#FFFFFF" letter-spacing="0.05em">C</text>
+  <!-- T R I S on the right side of the V -->
+  <text x="370" y="200" font-family="'Playfair Display', 'Times New Roman', serif" font-size="52" font-weight="400" fill="#FFFFFF" letter-spacing="0.05em">T</text>
+  <text x="432" y="200" font-family="'Playfair Display', 'Times New Roman', serif" font-size="52" font-weight="400" fill="#FFFFFF" letter-spacing="0.05em">R</text>
+  <text x="500" y="200" font-family="'Playfair Display', 'Times New Roman', serif" font-size="52" font-weight="400" fill="#FFFFFF" letter-spacing="0.05em">I</text>
+  <text x="545" y="200" font-family="'Playfair Display', 'Times New Roman', serif" font-size="52" font-weight="400" fill="#FFFFFF" letter-spacing="0.05em">S</text>
+  
+  <!-- Chartered Accountants subtitle -->
+  <text x="300" y="290" text-anchor="middle" font-family="'Playfair Display', 'Times New Roman', serif" font-size="26" font-weight="400" font-style="italic" fill="#FFFFFF" letter-spacing="0.15em">Chartered Accountants</text>
+</svg>
