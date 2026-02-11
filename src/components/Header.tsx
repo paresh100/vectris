@@ -72,7 +72,7 @@ export default function Header() {
                 {/* Logo */}
                 <Link href="/" className="flex items-center">
                     <Logo
-                        className={`transition-all duration-500 ${scrolled ? "h-12 w-auto" : "h-16 w-auto"}`}
+                        className={`transition-all duration-500 text-brand-charcoal ${scrolled ? "h-12 w-auto" : "h-16 w-auto"}`}
                     />
                 </Link>
 

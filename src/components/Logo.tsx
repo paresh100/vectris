@@ -17,7 +17,7 @@ export default function Logo({ className }: { className?: string }) {
                 fontFamily="'Playfair Display', 'Times New Roman', serif"
                 fontSize="260"
                 fontWeight="700"
-                fill="#2B2B2B"
+                fill="currentColor"
                 letterSpacing="-0.02em"
             >
                 V
@@ -30,7 +30,7 @@ export default function Logo({ className }: { className?: string }) {
                 fontFamily="'Playfair Display', 'Times New Roman', serif"
                 fontSize="52"
                 fontWeight="400"
-                fill="#2B2B2B"
+                fill="currentColor"
                 letterSpacing="0.05em"
             >
                 V
@@ -41,7 +41,7 @@ export default function Logo({ className }: { className?: string }) {
                 fontFamily="'Playfair Display', 'Times New Roman', serif"
                 fontSize="52"
                 fontWeight="400"
-                fill="#2B2B2B"
+                fill="currentColor"
                 letterSpacing="0.05em"
             >
                 E
@@ -52,7 +52,7 @@ export default function Logo({ className }: { className?: string }) {
                 fontFamily="'Playfair Display', 'Times New Roman', serif"
                 fontSize="52"
                 fontWeight="400"
-                fill="#2B2B2B"
+                fill="currentColor"
                 letterSpacing="0.05em"
             >
                 C
@@ -64,7 +64,7 @@ export default function Logo({ className }: { className?: string }) {
                 fontFamily="'Playfair Display', 'Times New Roman', serif"
                 fontSize="52"
                 fontWeight="400"
-                fill="#2B2B2B"
+                fill="currentColor"
                 letterSpacing="0.05em"
             >
                 T
@@ -75,7 +75,7 @@ export default function Logo({ className }: { className?: string }) {
                 fontFamily="'Playfair Display', 'Times New Roman', serif"
                 fontSize="52"
                 fontWeight="400"
-                fill="#2B2B2B"
+                fill="currentColor"
                 letterSpacing="0.05em"
             >
                 R
@@ -86,7 +86,7 @@ export default function Logo({ className }: { className?: string }) {
                 fontFamily="'Playfair Display', 'Times New Roman', serif"
                 fontSize="52"
                 fontWeight="400"
-                fill="#2B2B2B"
+                fill="currentColor"
                 letterSpacing="0.05em"
             >
                 I
@@ -97,7 +97,7 @@ export default function Logo({ className }: { className?: string }) {
                 fontFamily="'Playfair Display', 'Times New Roman', serif"
                 fontSize="52"
                 fontWeight="400"
-                fill="#2B2B2B"
+                fill="currentColor"
                 letterSpacing="0.05em"
             >
                 S
@@ -112,7 +112,7 @@ export default function Logo({ className }: { className?: string }) {
                 fontSize="26"
                 fontWeight="400"
                 fontStyle="italic"
-                fill="#2B2B2B"
+                fill="currentColor"
                 letterSpacing="0.15em"
             >
                 Chartered Accountants

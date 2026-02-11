@@ -2,6 +2,7 @@
 
 import { useHeroEntrance, useParallax } from "@/lib/animations";
 import Image from "next/image";
+import Logo from "@/components/Logo";
 import { Button } from "@/components/ui/moving-border";
 import { ArrowRight } from "lucide-react";
 
@@ -40,15 +41,14 @@ export default function Hero() {
             <div ref={heroRef} className="container mx-auto px-8 relative z-20">
                 <div className="max-w-4xl">
                     {/* Logo in hero */}
+                    import Logo from "@/components/Logo";
+
+                    // ... existing code ...
+
                     {/* Logo moved to bottom right */}
-                    <div data-hero className="absolute bottom-8 right-8 z-30 hidden md:block">
-                        <Image
-                            src="/vectris-logo-white.png"
-                            alt="Vectris"
-                            width={200}
-                            height={100}
+                    <div data-hero className="absolute bottom-8 right-8 z-30 hidden md:block text-white">
+                        <Logo
                             className="h-20 w-auto opacity-80"
-                            priority
                         />
                     </div>
 
