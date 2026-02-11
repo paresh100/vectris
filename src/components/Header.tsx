@@ -71,7 +71,7 @@ export default function Header() {
                 {/* Logo */}
                 <Link href="/" className="flex items-center">
                     <Image
-                        src="/vectris-logo-white.png"
+                        src="/logo-white.png"
                         alt="Vectris Chartered Accountants"
                         width={160}
                         height={80}
