@@ -3,6 +3,8 @@ export default function Logo({ className }: { className?: string }) {
         <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 600 320"
+            width="600"
+            height="320"
             fill="none"
             className={className}
             aria-label="Vectris Chartered Accountants"
